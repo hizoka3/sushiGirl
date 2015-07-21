@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "sushi.girl.prueba"
+    version   = "1.0.3">
+
+<name>Sushi Girl</name>
+
+<description>
+Aplicación Universitaria con tematica de sushis para mujeres
+</description>
+
+<author href="#" email="dario.ddwi@gmail.com">
+Dario Muñoz
+</author>
+
+<icon src="icon.png" gap:platform="android" gap:density="ldpi" />
+<icon src="icon.png" gap:platform="android" gap:density="mdpi" />
+<icon src="icon.png" gap:platform="android" gap:density="hdpi" />
+<icon src="icon.png" gap:platform="android" gap:density="xhdpi" />
+<icon src="icon.png" gap:platform="android" gap:density="xxhdpi" />
+
+</widget>
